@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amit
+- 👋 Hi, I’m Amit Sharan
 - 👀 I’m interested in Flutter, Graphics designing and 2d/3d animation
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on flutter
